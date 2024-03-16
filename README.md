@@ -1,4 +1,4 @@
-# Gameo-Materialize-CSS-Theme
+# Gameo MaterializeCSS Theme
 
 Static Materialize CSS Framework Theme (sass) - Gameo
 
